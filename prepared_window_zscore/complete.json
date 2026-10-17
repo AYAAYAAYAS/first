@@ -1,0 +1,56 @@
+{
+  "source": "H:\\keyan\\9_23\\LASPI-Detection_and_diagnostics_of_bearing_gear_and_combined_faults_of_gearbox\\LASPI-Detection_and_diagnostics_of_bearing_gear_and_combined_faults_of_gearbox",
+  "records": 336,
+  "samples": 10416,
+  "classes": [
+    "Healthy_motor",
+    "Gear_surface_damage",
+    "Gear_half_broken_tooth",
+    "Bearing_inner_race_fault",
+    "Bearing_outer_race_fault",
+    "Gear_surface_and_bearing_inner_race_faults",
+    "Gear_half_broken_tooth_and_bearing_outer_race_faults"
+  ],
+  "classes_cn": [
+    "健康",
+    "齿面损伤",
+    "半齿断裂",
+    "轴承内圈",
+    "轴承外圈",
+    "齿面＋内圈",
+    "半齿断裂＋外圈"
+  ],
+  "raw_fs": 25600,
+  "analysis_fs": 12800,
+  "anti_alias": "scipy resample_poly 1/2 before chunking",
+  "window_length": 4096,
+  "window_seconds": 0.32,
+  "windows_per_record": 31,
+  "unused_tail_seconds": 0.08000000000000007,
+  "n_fft": 1024,
+  "hop_length": 256,
+  "center": false,
+  "channels": [
+    "Ia_raw",
+    "Ib_raw",
+    "Ic_raw",
+    "acc_raw",
+    "Va_raw",
+    "Vb_raw",
+    "Vc_raw"
+  ],
+  "shape": [
+    10416,
+    7,
+    513,
+    13
+  ],
+  "cache_dtype": "float16; normalization fitted later on known training only",
+  "physical_scaling": "raw sensor outputs; gains not applied",
+  "waveform_normalization": "window_zscore",
+  "zscore_floor": 1e-08,
+  "bearing_id_available": false,
+  "repeat_files_not_assumed_independent": true,
+  "elapsed_seconds": 167.75534049999987,
+  "source_script_sha256": "50e6ab3f3d7c74035d9c433d1efe18fe7997d232f520efe7eb52d1db4bc9ff1d"
+}

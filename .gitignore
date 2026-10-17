@@ -1,0 +1,25 @@
+# Local environments and private configuration
+.venv/
+venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+matplotlib_cache/
+.ipynb_checkpoints/
+.vscode/
+# Binary data, weights and generated results are transferred separately
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.zip
+*.tar
+*.gz
+*.log
+results/
+DGGN/
+# Only this waveform is included via Git LFS for the current training project.
+!prepared_dggn_raw_waveforms/waveforms.npy

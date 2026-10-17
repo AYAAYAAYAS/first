@@ -1,0 +1,162 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "d74de68dc285c3d80fcaf3fdfed34c21d5eb97a096bcf41297af3f6d0d76bbcd"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "0c3ce7f7f75722dbcd93225a0c58c6fe0068419c120339e8e4a5729bc8d527ab"
+  },
+  {
+    "path": "analyze_laspi.py",
+    "sha256": "0898bafd3b23b39d18348c7c46b01a18f4cb94c9fb121a3c7afe474ca4f383d7"
+  },
+  {
+    "path": "analyze_same_condition_known.py",
+    "sha256": "5faf44b3704dfae3dec4f841366c1ff8f34e21bd15dc4d93a02b7eec540ed103"
+  },
+  {
+    "path": "audit_lwc_stability.py",
+    "sha256": "564d3e4ad205b60687030021e4fb106435e4b43e27ebcbcb164ded0fb92265fd"
+  },
+  {
+    "path": "bayesian_layers.py",
+    "sha256": "78c752c5b8caa91b07d515521b6e91f6e4cfc4dc61877ed94244399e90f42d3a"
+  },
+  {
+    "path": "data_manifest.json",
+    "sha256": "fd86f0a34378127f64a9657281dad3a33e0ff4ee5c7fd54d276ad06e7ee44af9"
+  },
+  {
+    "path": "dggn_laspi_adapter.py",
+    "sha256": "038f97574681a7c97619e9862ea797b8d8981881f647c8db272b0cc8f856d15c"
+  },
+  {
+    "path": "diagnose_lwc_stability.py",
+    "sha256": "5c8b8536c544bdb9dcd97bac8360c3ccf0b47cb8c17a7dbaab0612c73b3261b7"
+  },
+  {
+    "path": "environment_reference.json",
+    "sha256": "d493602d835fc7f90bf6b6308a904e01664b918a0dbe7356bfb44d03a86bd12e"
+  },
+  {
+    "path": "evaluate_condition_correction.py",
+    "sha256": "11345b7cefa6e4cac0c291a35bc743f88201a8527b04863e763cffefd145a390"
+  },
+  {
+    "path": "lwc_stability_full.json",
+    "sha256": "4f3bcdb27743eb7c92846574cc9dddca11dc33d6c5d565f9f194764e6bded555"
+  },
+  {
+    "path": "lwc_stability_model.py",
+    "sha256": "1033ba7cd704687115911d9f42d994cdf0a4d8b5432a6490340a78a8b2c080d4"
+  },
+  {
+    "path": "lwc_stability_pilot.json",
+    "sha256": "a666635b239c5ddf090c9759b3039769fe929d1aa3a58deee4095745f8c263b7"
+  },
+  {
+    "path": "lwc_stability_server.json",
+    "sha256": "a0ce28ecb7d5a8152d83d4f44e1faf7a1a043dd6c984800f5dffbbc7a576dc2a"
+  },
+  {
+    "path": "mahalanobis_metric.py",
+    "sha256": "22ba63f9fcf5c9855d14ce6f4bbb8b051396e7babc0141671f7b8fdb765449cf"
+  },
+  {
+    "path": "prepare_laspi.py",
+    "sha256": "50e6ab3f3d7c74035d9c433d1efe18fe7997d232f520efe7eb52d1db4bc9ff1d"
+  },
+  {
+    "path": "prepared_dggn_raw_waveforms/complete.json",
+    "sha256": "1a3aaa854d7749cc2e6795a75b687cd9d2cd2929ab70993d7b8ea6e7cd54466d"
+  },
+  {
+    "path": "prepared_window_zscore/complete.json",
+    "sha256": "10b73d5145970a9216b90de1295d6d3902caed000b5ffc6d2177af1c645d4896"
+  },
+  {
+    "path": "prepared_window_zscore/records.csv",
+    "sha256": "4766e5d804047c0ba8e91863811c14da77f6a8ffe98d2b38bb010db9932b3912"
+  },
+  {
+    "path": "prepared_window_zscore/samples.csv",
+    "sha256": "9e1b761a17d0d15170ba0053ddee4d5ef59f57ef1eacaa9c94589ed46a422426"
+  },
+  {
+    "path": "README.md",
+    "sha256": "7d7ec51d7135962e3dfc3eb809cd75f5904002dabe96a639974b07bf6daaf310"
+  },
+  {
+    "path": "README_LWC_STABILITY.md",
+    "sha256": "3dfa374a8d9e706cc0783344ef886ca0aa3cfb4859042dc914610055b744aed8"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "7085d4b5c88360bb2e49217d5f447929c640bdd2c0df51057c6fed7d2e16a6be"
+  },
+  {
+    "path": "run_dggn_laspi.py",
+    "sha256": "f0016b5985855a436741a3e43aad92b20680b252d947bf1d2a4ce72474a8d479"
+  },
+  {
+    "path": "run_laspi_compositional.py",
+    "sha256": "ede981ed284c9d489f2dcb103cd45e2b00f9c5920da56719f5eab43053b397a1"
+  },
+  {
+    "path": "run_laspi_cross_702010.py",
+    "sha256": "154c777d9865f064b33457e968831b0ed0c4d7754c98fa6449e7163aa13c20ac"
+  },
+  {
+    "path": "run_laspi_gfsl.py",
+    "sha256": "c8d5e9fcf8c8cf668c1d3b3e4f1aab359309fb5ca85a0e074aa753d512b78c00"
+  },
+  {
+    "path": "run_laspi_same_condition.py",
+    "sha256": "fb4792f84e73efb644f5f12ba78f79a1367b9a34d3e4e46336528311c5eca526"
+  },
+  {
+    "path": "run_laspi_vibration_order.py",
+    "sha256": "76ca31edf12eacab860b65b4eb6e8a71adf915dd608d07bc32c28de46d05b4e5"
+  },
+  {
+    "path": "run_lwc_stability.py",
+    "sha256": "59f2af8eab8ae4bdfbaf493a7ebe0ac151320952891ef4cd37f204a5f2f65de6"
+  },
+  {
+    "path": "server_preflight.py",
+    "sha256": "2b2221d34e57657324a045b105330e1e533c6d12d1beb79a6e4879975a67d95e"
+  },
+  {
+    "path": "show_dggn_laspi.py",
+    "sha256": "c882c591c1331043e248f0fa7b656d9b8abe78d16aa13808e9efc3c8aba81566"
+  },
+  {
+    "path": "show_laspi_results.py",
+    "sha256": "bd2cde492d9157ea86a02663f47def5d971db467cff514bb5af6fa5839037618"
+  },
+  {
+    "path": "show_laspi_same_condition.py",
+    "sha256": "9dad83789bde4273ec1bc0c33156b60f7d455525471682c669e6f29db97e56a0"
+  },
+  {
+    "path": "show_laspi_vibration_order.py",
+    "sha256": "f0fd9fb01ade57b7ade4580a71d99d6f3bc0e809989ea54de6813173089ceac9"
+  },
+  {
+    "path": "show_lwc_stability.py",
+    "sha256": "ffc841306358dec818259461c42ae8ff347329f1626de6ade9a139060364e023"
+  },
+  {
+    "path": "temporal_information.py",
+    "sha256": "fc18260345ede6deca70dac001a7d4733d903a24cc0e4fee71b6e020568f836f"
+  },
+  {
+    "path": "test_lwc_stability.py",
+    "sha256": "4fcca40cfb97b469af524ace3724f64ffb493b6836f653b9ebe653f71d4299c3"
+  },
+  {
+    "path": "train_laspi_components.py",
+    "sha256": "11b52f00638634a388b6bb3ce709088acd52582be0ec2e0432b8043df61681ad"
+  }
+]

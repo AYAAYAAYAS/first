@@ -1,0 +1,7 @@
+# Install GPU-compatible PyTorch separately; observed versions recorded in environment_reference.json.
+numpy==2.2.6
+scipy==1.15.3
+matplotlib==3.10.9
+tqdm==4.69.1
+scikit-learn==1.7.2
+imbalanced-learn==0.14.0

@@ -1,0 +1,1692 @@
+{
+  "contract": {
+    "fs": 25600,
+    "length": 8192,
+    "windows_per_csv": 31,
+    "normalization": "window_zscore",
+    "reference_cache": "prepared_window_zscore"
+  },
+  "records": [
+    {
+      "record_id": "Healthy_motor/25hz_0%_1490rpm/acc_00001",
+      "sha256": "09527b36a4a7b684427b51a150f55ebb751bbb7e8e68602a2719403f23916c6a",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_0%_1490rpm/acc_00002",
+      "sha256": "3d9e096b472b43e50cc05bf58d3c45eafdbc238981652e7e7be9eaf2477c69be",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_0%_1490rpm/acc_00003",
+      "sha256": "7f15a84e672bed6545e7dc0123c5c502bf41de1524288648082577aaf88476e7",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_0%_1490rpm/acc_00004",
+      "sha256": "a218f12b3ef9cb01f58db75e248f8b38704bed2e36b9143432315b73490791c0",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_25%_1488rpm/acc_00001",
+      "sha256": "88b0a478f93b90e3059b4f13fe13e2098c82167c07ac905095e12c40938d72da",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_25%_1488rpm/acc_00002",
+      "sha256": "80e5514588be2b1c71e5bf720419dd8ff367e9b721289a6898a8e9a7483f06b8",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_25%_1488rpm/acc_00003",
+      "sha256": "394fa23a179791a1e6a89b70a1852a1271715d8344d1facdbfc81235a34bcb81",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_25%_1488rpm/acc_00004",
+      "sha256": "65efd659a51e1952309f98948626d295e2b678e15d463da93eec57d310a5e446",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_50%_1483rpm/acc_00001",
+      "sha256": "4d10ad5e77d9eaa6e88f393c50c5a2d8c530a78281ba884b4477617d7a1e253d",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_50%_1483rpm/acc_00002",
+      "sha256": "72e819d0d987bf4e1e6762e4cbd6c8251ec324deb07e913c8e80154c9581b256",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_50%_1483rpm/acc_00003",
+      "sha256": "598a522515c189d0b7f468c042246edd08121181fa1dbe1f4bbc1611f1ed9935",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_50%_1483rpm/acc_00004",
+      "sha256": "82e17bf8fdc2c6c576f1bcc95bde43bf2c1e88c36f60efbbef3ba68f451fdf57",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_75%_1475rpm/acc_00001",
+      "sha256": "a46533b95604df7fd0e86c8f638efb6b986a68c4e8959c207e3f3f36f4bd492c",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_75%_1475rpm/acc_00002",
+      "sha256": "d9c3f8e102cf8225e68582b45499a59603dfb4baae7dac062fbb8093775ce780",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_75%_1475rpm/acc_00003",
+      "sha256": "bed25b3f49696478f1ab1e8be8c26e9dc014ae0da2c62d8ec7b1cd0959fda5a6",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/25hz_75%_1475rpm/acc_00004",
+      "sha256": "13d40eaab3ec05224b6e9871b8911a77eabfe67dcf1a7c3e4ea81c29d64b0310",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_0%_2090rpm/acc_00001",
+      "sha256": "d5d2c7d7cad3dd06c923d8875d06fccc20cd28f39006789197c2680e56225b35",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_0%_2090rpm/acc_00002",
+      "sha256": "93607d66070b9eecfed2a60c8ccb67181f8d21785e45f4543c2bfab1f8f2a908",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_0%_2090rpm/acc_00003",
+      "sha256": "37d468719f5ffb61e1e53a23dfe327e3604976a82fb98e8331f28ddd25ff3283",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_0%_2090rpm/acc_00004",
+      "sha256": "193887a5cef35fa41f4e441c3945fef438b3d431210c0b5aac7fbf41bc006c05",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_25%_2088rpm/acc_00001",
+      "sha256": "093bf95ea194bf2a4a0c13e06ed2101987e0e310e9376ad19dbb219c45eba297",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_25%_2088rpm/acc_00002",
+      "sha256": "df7d0614eaf6bfa3794c194c129fa39b9a5394e52fb00b940b0249153fdea6b8",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_25%_2088rpm/acc_00003",
+      "sha256": "80cb389ddb8e0bf47ea964463db45cba277df13e925ea4ee75ad9d73b7e4cbfd",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_25%_2088rpm/acc_00004",
+      "sha256": "feb2081338229eed4fdce4c17d375437e9c39f34d4b786a6af4ac609e641f5a4",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_50%_2083rpm/acc_00001",
+      "sha256": "ce31a5739d979236fd1fda1debb8efc6c9f20546588b94694ce83158bce058e3",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_50%_2083rpm/acc_00002",
+      "sha256": "4381aab31f416e3d6abbc70a7088a14b5c3e998c154e70a880a6b7493e0f9016",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_50%_2083rpm/acc_00003",
+      "sha256": "35786a66f549e5fa080c6cb3cf30813f01c110661d681abc73e61a717cdfab2c",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_50%_2083rpm/acc_00004",
+      "sha256": "7436981aca9e80ad19ea5f5a36f6879b77d6feea4306043d53c6b46eea714bd9",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_75%_2076rpm/acc_00001",
+      "sha256": "ce31a5739d979236fd1fda1debb8efc6c9f20546588b94694ce83158bce058e3",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_75%_2076rpm/acc_00002",
+      "sha256": "df0bfd868c6c7c98b71c7cabe50d86283c09d840d9e12285698479f598b0e04b",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_75%_2076rpm/acc_00003",
+      "sha256": "1bfbda1623e051dd7a5bc018fb280e150351df48799506f70f14ea007a8f504c",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/35hz_75%_2076rpm/acc_00004",
+      "sha256": "bc4b6c30322d4af65bc323acdfe61e0ef7c741dbd84e0ad999c290dddf1a85b7",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_0%_2691rpm/acc_00001",
+      "sha256": "6b1f69f959af819013de026a57a66cab0496ae70f9e97437d729cb5cf154469d",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_0%_2691rpm/acc_00002",
+      "sha256": "14000b1dd907b0990034165188fc84c877a0dae8fa53b2de67046b2bfe66fc5f",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_0%_2691rpm/acc_00003",
+      "sha256": "cf8c1abb0140eb6b285b65e8aa17514653443ea7732116bd574c016f9c9093b8",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_0%_2691rpm/acc_00004",
+      "sha256": "1bfb9cddcfd6826e7dae1687fe1db072527657f04490bad504d427f4da097a9a",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_25%_2689rpm/acc_00001",
+      "sha256": "fcf5484e844582c6f53d7f471a0725fe3760f509b9c5fbf1307bec461f01c3f8",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_25%_2689rpm/acc_00002",
+      "sha256": "65c352045e88237fae1495e1084ed1680f8c6d02557e37a5054a57532382f93a",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_25%_2689rpm/acc_00003",
+      "sha256": "e2c8014a9f359f967a6060461b0071a4b1155f6569ea7f2e27e17c9cdae3ea89",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_25%_2689rpm/acc_00004",
+      "sha256": "e1b6e7f3673dca8f02f28aa364a5cbc839c91403bbeb20eaf1d2770283a788c4",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_50%_2684rpm/acc_00001",
+      "sha256": "fa8710540432f9cb5572d604f3e08899543927760255693a13c7831ca7bb9d72",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_50%_2684rpm/acc_00002",
+      "sha256": "da248ddb39155cb2bec53153fd2440ec95a5d2aec6186c208fb1ec7d69e5cdc0",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_50%_2684rpm/acc_00003",
+      "sha256": "6eab87b5ee6709709ce86de191fa6b9e733cc5404010716474163673c188fa49",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_50%_2684rpm/acc_00004",
+      "sha256": "4316387a92c7782e924d2fc2a2e35bd8e7599f07914e551954385b0a17add7bc",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_75%_2677rpm/acc_00001",
+      "sha256": "b48e8de63b29235049c2da177f47b7d6c9915018ff55ed14edb0f24ed5edfea3",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_75%_2677rpm/acc_00002",
+      "sha256": "79243072af6fa1174951e771613fb4ae9bc944f2329088dcbb9f84ae00fc2086",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_75%_2677rpm/acc_00003",
+      "sha256": "cbd645ea487c50949d2a9ec94dd8fb5f5e383e94e106fb60bb4d129ccefb96e8",
+      "windows": 31
+    },
+    {
+      "record_id": "Healthy_motor/45hz_75%_2677rpm/acc_00004",
+      "sha256": "74eb40ceac4ed0df835cd3064c9abee6e77cf79d9cbe2ffb596b8dfe6f9138dc",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_0%_1491rpm/acc_00001",
+      "sha256": "fece3c43cf1a8489d1798cbe8194dd76595789d7093704ab2835ab6d1bb3d1f4",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_0%_1491rpm/acc_00002",
+      "sha256": "26dd03e769ef5edf981ac481f90067f1cc740f7f383d2c383ab3718fad165617",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_0%_1491rpm/acc_00003",
+      "sha256": "5480215e3edef1ebc624bbbc2c8c6e4bc959129ff52cf3230a02d058fc43b25a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_0%_1491rpm/acc_00004",
+      "sha256": "8830cfb7e43792d7e11f8329195c06e813eb87cd0e79318ed3eecfeb900d5b6f",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_25%_1490rpm/acc_00001",
+      "sha256": "69116c83a721d343401a895b1e071a2e12439ceb33e5d5237277236b4d4f9e9e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_25%_1490rpm/acc_00002",
+      "sha256": "c14334f78bee05afde56ba9eadb7f5cbafee0130ed2e95adc519149303bd8f23",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_25%_1490rpm/acc_00003",
+      "sha256": "c181ca221887334020bd288046a6594fd8d4f5bb788ea44af3444e8e5d15fdab",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_25%_1490rpm/acc_00004",
+      "sha256": "7e93d2c2fc49326eaec5f6ffc4c31989529606d1c2de4e562a6c38b0a4a4cadb",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_50%_1485rpm/acc_00001",
+      "sha256": "695a30d82eb9e3224eb2ff55c61c0044376ec52a9c7805afa24e94839db67f29",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_50%_1485rpm/acc_00002",
+      "sha256": "d56040c81d399ca1ba8c4d738cdd1b9e13d827ff0b6da133a1508dce6da2bc27",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_50%_1485rpm/acc_00003",
+      "sha256": "c0070b6199b17d68548d1d4c7adf0159621f06f8a2e45b4a5138a1ac47ebb448",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_50%_1485rpm/acc_00004",
+      "sha256": "14fb261efeda9c2a60bf255cd72e25702b95d8b98a521ce3053cb401ea1b5ca6",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_75%_1478rpm/acc_00001",
+      "sha256": "41f1b0c43caa2cd07e8c474925b78843e43aef4084fb371d1f0577d2df75df23",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_75%_1478rpm/acc_00002",
+      "sha256": "ada9f6d13f6016987dc8b1b442c19760dc31d1c45fd2dc74daf3f341f9e20ea6",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_75%_1478rpm/acc_00003",
+      "sha256": "127166e875fce32a40b27f893868416301937b91179ccee15390b60dcd2fbc9a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/25hz_75%_1478rpm/acc_00004",
+      "sha256": "a9a9f8806deee4550b1d78de3ea48f216fefccb17ea424c483b31a4839b2489d",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_0%_2091rpm/acc_00001",
+      "sha256": "0935bbb9e37f422d1b65bded7e9d2bfd06d9f9814aad960ce3be1b1d70d0b3f9",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_0%_2091rpm/acc_00002",
+      "sha256": "d7cdd9adfe96536aa6f7e3bba92bbbb45cfacf6e444de43d5c1384e2d979a564",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_0%_2091rpm/acc_00003",
+      "sha256": "f6835f432783b8d3a91d413b0165e3d79d61b274483da3c1f32ea717ab45c711",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_0%_2091rpm/acc_00004",
+      "sha256": "4113ce7ccc4e164f7ff60bc830d97f44eff330773085de7953f2f1533fb6f25f",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_25%_2090rpm/acc_00001",
+      "sha256": "f228ca1332f85f30d2bee2d8ece5a2b1aa2191184e4d4779ae5abb556b357f39",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_25%_2090rpm/acc_00002",
+      "sha256": "8016d9cd6d868e8aab376a881113b931f85d89c7f60e5450a04599294a2c3c44",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_25%_2090rpm/acc_00003",
+      "sha256": "10b40263e6d14aa2293ccb24db620077de29b38ca39aa4c9537bb3151c0c65ad",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_25%_2090rpm/acc_00004",
+      "sha256": "a34f7368b7b8f678c7bd1b48e55f90b8260b15340b2cfeec57733c318dad695e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_50%_2085rpm/acc_00001",
+      "sha256": "fcb9835a947a3d334e202939eeaed2d12f70e2e1371f028bf7237257fc738d19",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_50%_2085rpm/acc_00002",
+      "sha256": "474b00266bb9126ccd9cb709cea6d1daf78d082d059445cc766c460d0fd2805d",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_50%_2085rpm/acc_00003",
+      "sha256": "018f5ac3e84451bcc7064b18349f70753f77b230e7c1d226219efaba48e7db05",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_50%_2085rpm/acc_00004",
+      "sha256": "ad6feda8b3a0b9169651a759f47d20abc80b38a825da603edcb868402f325add",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_75%_2078rpm/acc_00001",
+      "sha256": "75ca914e3437feeaccfb96ae57ee5b9b102d1578a329f1e66bb1ae8c8b691b1a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_75%_2078rpm/acc_00002",
+      "sha256": "e3487e6091035a799e93fed8e50152fd6b3809b40c1a1345c0d2c83317bd6a0e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_75%_2078rpm/acc_00003",
+      "sha256": "2d24587746227c33d24775cec9cdf05b4b08848382fe6e02ec17644a84749518",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/35hz_75%_2078rpm/acc_00004",
+      "sha256": "c0bec56b7bc49d5d51d0dfaa0584d661ad98baa2e4262f462befb07af5b91019",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_0%_2691rpm/acc_00001",
+      "sha256": "12ec6bbc813c6d859bdbac66cf66a5a69cf5433327e5906d0c74369caa4053ba",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_0%_2691rpm/acc_00002",
+      "sha256": "1620aed04e0904a3da2d70867a614befc74a5f7f9869b051496102e3e1bfc38f",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_0%_2691rpm/acc_00003",
+      "sha256": "ac34fd7e973d988bb065065944e32f6998ea2a543c21bd67450bb02b1cb46790",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_0%_2691rpm/acc_00004",
+      "sha256": "b3ea0ab0214748c6c9564ec79d2be0fc05d951b0752e8eeb3542c896da0a252a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_25%_2690rpm/acc_00001",
+      "sha256": "95d2b579a3d886ee4211488ec9e466c68147c5aae9e0c7178ae3d15076d4a150",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_25%_2690rpm/acc_00002",
+      "sha256": "e4468b828c9a18fdf27d2afaffa26f6d1e7a84e88259a3829f13958982c2f67a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_25%_2690rpm/acc_00003",
+      "sha256": "7ea44a38b2da52bd126e4b1a55df57f7d9ff4dce61feb4b375c93de9bf933703",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_25%_2690rpm/acc_00004",
+      "sha256": "4d72fb0a3c7d57c5b46558e302cfc103a844da890d94eec96a53e084322d8354",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_50%_2684rpm/acc_00001",
+      "sha256": "fafdafff928dcd730dfd3f690447be4866f4d82e31a3508329473309c8d0c3c3",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_50%_2684rpm/acc_00002",
+      "sha256": "c0b8fa243fd1f1c2d41f6c81354c9d7b0f3c08cad376720ef130109bec96cd68",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_50%_2684rpm/acc_00003",
+      "sha256": "5c70e5ce7ab053d4e9071d2af916e8eee49a5cbe09223602a1bfc843709d1593",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_50%_2684rpm/acc_00004",
+      "sha256": "2626a1d620f002f0b7f953aa692ccd70bdcc3b3a19f61a8ac4c91a41f045689d",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_75%_2678rpm/acc_00001",
+      "sha256": "8e3096b3dec8b99a0735719e1f2a8f5b0f21a7b128e7b92ff72bee94d703a8e9",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_75%_2678rpm/acc_00002",
+      "sha256": "24b2a54e9212d004fe8183c844c96e68990618f3c214f1b5261b64bb3ecf2402",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_75%_2678rpm/acc_00003",
+      "sha256": "e18768b6a08b1196222ebd35f1671c69f4743681939bb42a3cc654399abb36ac",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_damage/45hz_75%_2678rpm/acc_00004",
+      "sha256": "d30914febbd57b171b449658aecf23ef77876e04f5f5d4d8785bfb03dddcfc16",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_0%_1490rpm/acc_00001",
+      "sha256": "517aedb73480c94e4139130dbbe0745649e7cd839b5d6b81b1e81f00e0a98d02",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_0%_1490rpm/acc_00002",
+      "sha256": "32a423efb402e74393e1ec35432647332f552cd199b372263155b8a611adcbac",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_0%_1490rpm/acc_00003",
+      "sha256": "7efb3ee8715b099650891fddf4c3828c01b8e1773106355058dd51ad086525a2",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_0%_1490rpm/acc_00004",
+      "sha256": "0f5e19502b8b93cdce493ffacb1bdc3ce416c4db4b4782d050d52ac57a8e1db9",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_25%_1490rpm/acc_00001",
+      "sha256": "36a94d0a5be1a3bffcd208ad9ea54ec5175fe3040b437c028ee3bd652b40af80",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_25%_1490rpm/acc_00002",
+      "sha256": "b6174d743b899022234c9b2a0dcfb7e7848113cb3b252fb6ce9d80cec2fb23c0",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_25%_1490rpm/acc_00003",
+      "sha256": "e4ec6dbbb5507a438f5f13071a479f2a295d163db96cc57dfa9a50b4dc01b68a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_25%_1490rpm/acc_00004",
+      "sha256": "b99d479c468a0a869ec663ca8df262de4013040926e31fbb1e1e53a4d555bc30",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_50%_1484rpm/acc_00001",
+      "sha256": "3cbfc6849ac79c396d68bd308d8a8b9459c189a2e6fb2530ee5dff8732d1576e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_50%_1484rpm/acc_00002",
+      "sha256": "efcbb09c34c8c144bd81b36245fbc02f6cd65cdb1a2be7c11996fccdefa8a210",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_50%_1484rpm/acc_00003",
+      "sha256": "68e3c9d4bef27f00d3a4877c93108f46e6556b81119f2c3abf1131d2e87e6e78",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_50%_1484rpm/acc_00004",
+      "sha256": "b9fc2f37c78e251e57a0a2403d7315b6a044343c2cb670b7f7314c87320059c0",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_75%_1476rpm/acc_00001",
+      "sha256": "d5d1549c278c653c1656168f4784da72b7a985ee263ae2568f44a34346fb1dbc",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_75%_1476rpm/acc_00002",
+      "sha256": "df16321ae3df5b08057cc91eb72495c17b16a87923239f7fb22132db6ee003dd",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_75%_1476rpm/acc_00003",
+      "sha256": "d489c0b4eec701ac325274f0f041cb83acdcb8a7c09ab646164f41568a778236",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/25hz_75%_1476rpm/acc_00004",
+      "sha256": "587c5d46485d2d250503a8c5928a17359c05819ac070ed4ddb70cb6443e9511a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_0%_2091rpm/acc_00001",
+      "sha256": "dc73d9aa6dea4143356e9d0365ff5fde4be741a0545ca01bf0d5bcf6290012d7",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_0%_2091rpm/acc_00002",
+      "sha256": "4c8f9667ef01895992254e07f28e40ee88945f3d96052d06727aef2a11822f7e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_0%_2091rpm/acc_00003",
+      "sha256": "47a4f984201b232f9428654db16719532d84403a50f9b55b0ebf846d26d7c7c4",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_0%_2091rpm/acc_00004",
+      "sha256": "c955e3aa7d8f1e331768de4761c9e2c05a2a6b1abe130b0c90a3149090bbb7a9",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_25%_2089rpm/acc_00001",
+      "sha256": "dcd90ba570d3bdcc02a6a0a299618ae0b6b58dd6cf3084b2f47f9a9982611640",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_25%_2089rpm/acc_00002",
+      "sha256": "909219663e61819c473721ae5f570e6cc68288bf8a98e1908ef6d1ce97825284",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_25%_2089rpm/acc_00003",
+      "sha256": "046a79cc6030fb63ca82253821f4ad165c8766426553a410313c7f54b1cf24cc",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_25%_2089rpm/acc_00004",
+      "sha256": "77299d95d6fe3fdb654d5e065b0d2962097a82ae7ef010b16ebaa23c094c95f8",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_50%_2084rpm/acc_00001",
+      "sha256": "b62970caaba5d1b8822d1f34e77f8cf0ed7f6996292e6d2dcd8aa1860dd2e888",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_50%_2084rpm/acc_00002",
+      "sha256": "5b06d15072fc30b7e8dcaa7adeeb81f3718a174efc61e5d2984d449cebcbe100",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_50%_2084rpm/acc_00003",
+      "sha256": "837db4abf6a93f016fc0f29b56e79dda4057fe050061b34cae3ab6ab68a32c60",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_50%_2084rpm/acc_00004",
+      "sha256": "eda0622b20aa6ee1cfe28eadad18e528554ff96461f71c7f4ac47684a1f5cd5f",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_75%_2077rpm/acc_00001",
+      "sha256": "b2311b1cac771d24abf715fa55331e8f6749165e2782cc68c08483da2c449003",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_75%_2077rpm/acc_00002",
+      "sha256": "43cec6cb67230839e5d2c33e516cf9559d07b328bf811dfb7fa9a3aafbb4cd5d",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_75%_2077rpm/acc_00003",
+      "sha256": "c2d3de28ae36d5a7785a9d86b8e7061c2b6fa506ab614168662a9640c5493716",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/35hz_75%_2077rpm/acc_00004",
+      "sha256": "9a9354335664edc42d056a925a02ce3917f02e95b4152d1d904c4252c65290ab",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_0%_2691rpm/acc_00001",
+      "sha256": "959f069eeece27d863e4a237362e1230902bff2e491e300a974d62ce125e2033",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_0%_2691rpm/acc_00002",
+      "sha256": "ffe3889e87ba73da92012597af06ce44bb64f01a051af98a3ab1c7bc08c11b20",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_0%_2691rpm/acc_00003",
+      "sha256": "fe78e89c93ecc0381c6da8cf24a382b1d746e2f5442a15ae1b85a1fd1710d192",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_0%_2691rpm/acc_00004",
+      "sha256": "7b9b46512e15bddac3aae59711fdcf84f2275ec9418fa808d7301032f498dae9",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_25%_2689rpm/acc_00001",
+      "sha256": "98453ea2e3c9200e7700a2682e1b65ead175043d7c280217b25d1eb0217da5d7",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_25%_2689rpm/acc_00002",
+      "sha256": "e33e1adae94e51a922fcaf9f2a3b6b11d3c54c157bc66a863e2d9851742a5d1c",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_25%_2689rpm/acc_00003",
+      "sha256": "85fe0c1c1c31a32053f1fceed8e4fbb1cdb8add306bad2c5be68f259eaeafa02",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_25%_2689rpm/acc_00004",
+      "sha256": "db2646e5f382fe47bd8e092a5f298260987bc41f08984a9278be4918a128fd28",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_50%_2684rpm/acc_00001",
+      "sha256": "878d6e73e03f20f7a189fe3cb84b50a08838321da5f78e9ea5ef03ca6bb074fe",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_50%_2684rpm/acc_00002",
+      "sha256": "c647ee4d53f642cf664f35366fc3738a31fa623672adea93d39773f816677e8a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_50%_2684rpm/acc_00003",
+      "sha256": "1a56455bfd6b3b7725c5b99d98225580dca3a2b17168458c750e661f5d26bf26",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_50%_2684rpm/acc_00004",
+      "sha256": "ba83a1ecdb0f2a7bb7d371aec388e0aa51ce35d0949a05cfa028f83db422f1b7",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_75%_2677rpm/acc_00001",
+      "sha256": "090c1d6a12f83ee65cc1b5d7012979ee42d1993ad796082d225c27ea5f868015",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_75%_2677rpm/acc_00002",
+      "sha256": "994f7cb872fdeb4ed76fc3798ec1d6057c1c0024ad6a7a9047400cafe6da0e7e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_75%_2677rpm/acc_00003",
+      "sha256": "8c1f227f3bad7296b947bed5025fb5b8c88e2ef8723cda70e57e26a99dae2377",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth/45hz_75%_2677rpm/acc_00004",
+      "sha256": "a9a3fb6b8b24c91398d74167b75c746cbed047212cb01910531846e7b8c1f6ef",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_0%_1491rpm/acc_00001",
+      "sha256": "1219cb0ff7ebb55c186fe59685e650f73dbe7cedad93193ecb288e76d019e601",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_0%_1491rpm/acc_00002",
+      "sha256": "7d060034336d1fb1d9bce160086ec0cf40e90dca39a08313690e1f7ba1892684",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_0%_1491rpm/acc_00003",
+      "sha256": "9563b6b5b1efda722e0166e250cf7df41c2b3d9ced0f1cde65b738b0193bd266",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_0%_1491rpm/acc_00004",
+      "sha256": "68db30ae5ea1c51d40a2857a85cd6196906078b8e9b5a2900db57fc00b2faef5",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_25%_1489rpm/acc_00001",
+      "sha256": "e82684f6bdddc19c87d4cfd68c3b2317f514970eedd26caa7e5b2affd18ce141",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_25%_1489rpm/acc_00002",
+      "sha256": "a2078430769d1949ddfb6a5227171c5c26ef7529bb8549cf4014b8839c9e2b90",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_25%_1489rpm/acc_00003",
+      "sha256": "8f445b11c5bac652c6bba0cd68d2172a74f08287e3372ddbb2d8e4004c830526",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_25%_1489rpm/acc_00004",
+      "sha256": "6fbb7d8843683f59e39fef11492ecf616fc6b9fdab8f83c7162a4afa6aef6edb",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_50%_1484rpm/acc_00001",
+      "sha256": "f749358e089c01b163064872d94ceae15fe8ffb260efea673b94d02854999e1c",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_50%_1484rpm/acc_00002",
+      "sha256": "fef95b1d3b42e2aaa32b839ec031f22184ae1339ccb991d7be114bb786e8988a",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_50%_1484rpm/acc_00003",
+      "sha256": "cb2bb32b1001b25b1a268d8da02d8afdac904e75561f70576a60fcee6ede41ca",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_50%_1484rpm/acc_00004",
+      "sha256": "123f14d53e18f2b55126372d48ad9e45614f7038206cc961bc6193ea9ecaaa55",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_75%_1477rpm/acc_00001",
+      "sha256": "8d0278dfd74eaf6ccf5662caa90f3a32d26424db7d5953f269eee0bee93dd307",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_75%_1477rpm/acc_00002",
+      "sha256": "e08b3e101b3d7fd55637c0fe922526d6d2574803d311146ef62c1be30aa590b2",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_75%_1477rpm/acc_00003",
+      "sha256": "f3e05e70d3d0d23f5a5347500f28b577d58a5d2d39d5f0267c3fbbf2a546374b",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/25hz_75%_1477rpm/acc_00004",
+      "sha256": "2333970ee22955fa86b5822fcabd04c084921d7845a04784394cd88b2a12edb7",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_0%_2091rpm/acc_00001",
+      "sha256": "377742f27fad49bd5b2e6132e54cd91517ec0751e2e911d7fd6c8d0d8e8dab8f",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_0%_2091rpm/acc_00002",
+      "sha256": "e3b32235f94d2c066ed29f901cda69e496385d84e6bc111e4cd381722d30311c",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_0%_2091rpm/acc_00003",
+      "sha256": "49c147a0fa917ba68bf49d415e2e0088363a4550b431b85a41a37cd4a09ad93f",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_0%_2091rpm/acc_00004",
+      "sha256": "470d1622312810b6083518249f145509a696a86dada1bc7a1789b8de8874e7cf",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_25%_2089rpm/acc_00001",
+      "sha256": "6031d039324cb214dd6ed3bddd3241442e55433bea45d5a9aaa8b6340c619d71",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_25%_2089rpm/acc_00002",
+      "sha256": "04c2041842dc36f2a7803b6e9ec6e83f65a6d727279b8e4e23720a2beade2a50",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_25%_2089rpm/acc_00003",
+      "sha256": "2cbdd78085f8d2c66e63b3a94ba0aedddb3ea3dfb5f9c66fa321f7f827ba182a",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_25%_2089rpm/acc_00004",
+      "sha256": "fe81ad7cffda726717ce9a2689837323424cb5cb6e2fa55a2ac70f18c57c5187",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_50%_2084rpm/acc_00001",
+      "sha256": "c79bda86132d3443f2b158133531507b61b9950f677be1aac36fff1686824472",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_50%_2084rpm/acc_00002",
+      "sha256": "25c1c1c92c240c4757160165519a4b009dcc96e69fd58f324549082d41ea2a71",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_50%_2084rpm/acc_00003",
+      "sha256": "993403ba811bdbc32dabdcf4d22ff3eea4e193977905f4cb9f7d3d9a4070f368",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_50%_2084rpm/acc_00004",
+      "sha256": "cea5b9533bdef2d863d53e9f754bf4db8734d5d791a5622471d9bd16c4abf399",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_75%_2077rpm/acc_00001",
+      "sha256": "98646c8f5842622ebd3f5e168012d4275d1328e286f5ee8e20d200893e656ea8",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_75%_2077rpm/acc_00002",
+      "sha256": "b6453cec8c9bcd55d2c5a56e49946009562f402ebe8dd5a09ac568df2c36a9e9",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_75%_2077rpm/acc_00003",
+      "sha256": "f9329a7ae1ca3b730f7705a6803f8cf0b627edabc7e9462c7a1ce8eaac919211",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/35hz_75%_2077rpm/acc_00004",
+      "sha256": "39a55754414809f097c384bea100cf40d07d29cc95a61a3f37333fd219da3e04",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_0%_2691rpm/acc_00001",
+      "sha256": "46006ff0c60fe0c9562034394991a8737a9f995ee4fa11f216b215edf7c22976",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_0%_2691rpm/acc_00002",
+      "sha256": "8fd9efe4ef9e6c8c9c0cebeb709b8a010ffca72932ee966ef8eba092c24ee53f",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_0%_2691rpm/acc_00003",
+      "sha256": "bb6d2cac00d33a3c1c1a307ca27070e6faed2564bcddefa436e6d8a01de51679",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_0%_2691rpm/acc_00004",
+      "sha256": "624e5a693e6189c968932281fb620361f193331f746d6c733f2e13614275470c",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_25%_2689rpm/acc_00001",
+      "sha256": "928ade289f28602beccdce708d5643061636a59b9af30e73cab659d5254af6d5",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_25%_2689rpm/acc_00002",
+      "sha256": "9c68fb26aed5033f51add8dfbea3bb419b7becc6d3f0fe5e7058a9802e0118a6",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_25%_2689rpm/acc_00003",
+      "sha256": "f42c63e5c24f814326660781a6578392e03055baf16e91872bc9672f821a3f6a",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_25%_2689rpm/acc_00004",
+      "sha256": "3d90c5c92909b1cf147bfa1331b291fd13476e584b98e3e8191ef74f00389b2f",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_50%_2684rpm/acc_00001",
+      "sha256": "f233950206d2f56655402d5e531d11e9f6a6de938930acb50b2aea33eea82a1f",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_50%_2684rpm/acc_00002",
+      "sha256": "8129b9e8364eeed2964bbe91f6dc00df71cabe89b1ea4a1e093b9212a73f4cd8",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_50%_2684rpm/acc_00003",
+      "sha256": "891819d30a5f2798be6aa7f8cee678fa5b888ce591f0ec87764977641532e69f",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_50%_2684rpm/acc_00004",
+      "sha256": "88e90e113cb303f931192c17cc3b5dc257b0f07dc3c058f9756eea469050e497",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_75%_2677rpm/acc_00001",
+      "sha256": "12854556516894201ab7785a4a4b2d8faf88b22ba7fe675b4ebe1265a3013bb1",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_75%_2677rpm/acc_00002",
+      "sha256": "52c073f10b5f917a281009a3de1734524c64e08d99a2a787765043f6301401f7",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_75%_2677rpm/acc_00003",
+      "sha256": "62563fffc6601ec5d96da0242ec4df541e1a112d3800b92e60e170e94d748c5a",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_inner_race_fault/45hz_75%_2677rpm/acc_00004",
+      "sha256": "8392c740e94df452bb08267f841bdae07a8c65c1c61e18fb843be9480a92a3b0",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_0%_1490rpm/acc_00001",
+      "sha256": "a31a24caaceaf96ec9345b09fd98d52a53a1987a4ebe7e89c44d9358b44c54d4",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_0%_1490rpm/acc_00002",
+      "sha256": "a1775f6f964a886c5cfa3999bd44f6f6c424db77b70aa486e9859e5adea5544b",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_0%_1490rpm/acc_00003",
+      "sha256": "c41370d2a3619a6a0d6394bba7fb1548e071e5be6e2fae3166d256b2cd761e37",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_0%_1490rpm/acc_00004",
+      "sha256": "3ef7a9c8954216fb63e751fa22eeb385757aa679f9eae8860393a826abc75084",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_25%_1489rpm/acc_00001",
+      "sha256": "d1fca87e635c4a9f7489f09b99395bb81397ecd9ee74b3fd69a003835de87626",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_25%_1489rpm/acc_00002",
+      "sha256": "b462ab204aa50c37e928cdb0041138a163cad8a0b1809d8a6c5dd4afc357b46a",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_25%_1489rpm/acc_00003",
+      "sha256": "786c6f8ea72f20c3283b95dcf9d6a4b4057ed96befeaf974a14a3454e90d36f6",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_25%_1489rpm/acc_00004",
+      "sha256": "64be9696a8e2196038d39bd32b71ba3e5a135ad51ba054ad6ebefa0f32110685",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_50%_1485rpm/acc_00001",
+      "sha256": "de61735666f1ecb1b315ac038714c9e6b2c3c8b53b1cb6b5e9cbb1d213d5e94c",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_50%_1485rpm/acc_00002",
+      "sha256": "56b6a4c0a6fbd936cc68490d57140656b25ee459f83ca6c142966fc565d1f985",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_50%_1485rpm/acc_00003",
+      "sha256": "ec5255beb6a5d5677f15b1e3f87cbbd48ceb31b852a8dd3a0f4e57042cd173f9",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_50%_1485rpm/acc_00004",
+      "sha256": "c48c2b9cb7531adab22b3ab3d866714b8d1ec73a78006d67af3a3d7676cd7c7c",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_75%_1478rpm/acc_00001",
+      "sha256": "59ed9019fccc9bacd372e2f180d18c40fb13d5fe24aa61fc1eccc87fb70df4f6",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_75%_1478rpm/acc_00002",
+      "sha256": "d9ce121f88b9f4be1a39fdcc60dfc679f8f690f9dd3d56bf0ee9810b03b65e4f",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_75%_1478rpm/acc_00003",
+      "sha256": "6a40d3fbb82ff1dd0262bc53850775782ccb472ebaf53f9c7fd0b0746480ebe7",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/25hz_75%_1478rpm/acc_00004",
+      "sha256": "71cd523c5a79d03ef7a4438a23d379d23ddcd9c2cd7b27b1b84034cbf2f21f14",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_0%_2091rpm/acc_00001",
+      "sha256": "29ec2b461dcca094cd1594b40c1b44762df1540b7fe2eaf8c2c0407bbbe8a46f",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_0%_2091rpm/acc_00002",
+      "sha256": "771ff63542419c961b9bd7c5cfc5a14e36643fb46a9f923fcc41f64b823bec33",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_0%_2091rpm/acc_00003",
+      "sha256": "fcd4d0febd115deecaa5871b03aefa8facf486b028d57966be850ef1eacb8b63",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_0%_2091rpm/acc_00004",
+      "sha256": "118800f012d9ea97aa2d48b58e4e0f348d77bb4f258df3fb95abe209ed0b13b8",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_25%_2090rpm/acc_00001",
+      "sha256": "3f6ef2c6504b757eb8d7f151eb064c5b17fee8547587a0b28c927385dcefdaf1",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_25%_2090rpm/acc_00002",
+      "sha256": "6092a4dc3aac40f4c57056021049165b9b0f968b7d06844cca49b593dc6ec257",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_25%_2090rpm/acc_00003",
+      "sha256": "7da9bef4353190a492701ef16941ac782a98a87a24653281cda93c9b15990f08",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_25%_2090rpm/acc_00004",
+      "sha256": "7eaf9c3ba6b2f13ce4f57b12c89b6610cb75591c050cb3e177c55704b0b31c25",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_50%_2085rpm/acc_00001",
+      "sha256": "3f83327c2463f48c691ecbf4d0bc84bf2b9ea4f4e1cfa03a0ae075094265b22a",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_50%_2085rpm/acc_00002",
+      "sha256": "7927d5931284d4b8c3806fd61c8c83d3f84db5c4b144401584f5f0706bf7c9c9",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_50%_2085rpm/acc_00003",
+      "sha256": "15e3783f61d24c32022cb935d7f0b6d25b6fa9fe136d9a196d48c59655a9fc40",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_50%_2085rpm/acc_00004",
+      "sha256": "5fe7535911c4acc3a2a8e1f08e724157147a41d9bfa3b7ef967e7e23f8980472",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_75%_2078rpm/acc_00001",
+      "sha256": "f58586ff3d5ba9736ed3ded3ab2e0080fe6c74e94053c7362461abaaf8888262",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_75%_2078rpm/acc_00002",
+      "sha256": "713bb3ceb75ec0d37cfb19d8a7944886f2970910e498736167c8ca8468ab1bd6",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_75%_2078rpm/acc_00003",
+      "sha256": "a5df6b73a799b81a14123bf205f644bf45e19d5d2231597ecf95478396fd91c4",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/35hz_75%_2078rpm/acc_00004",
+      "sha256": "173a00927ea936bf6f24a8613504ce62f9aa5b3dff11ed68400ac5a7b6ae2efa",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_0%_2691rpm/acc_00001",
+      "sha256": "77766ab08e7f90104d2343ded547a869cdd8b7d619e50184af04561b4fb3a561",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_0%_2691rpm/acc_00002",
+      "sha256": "c2c82c7f3469b80336b97d6c16261071aad5631f87f3c0e1f63506487eab5340",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_0%_2691rpm/acc_00003",
+      "sha256": "672cbb3026058dbb7fad16933fc0f71de178bd9aadff732dd1f524afe1f091d0",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_0%_2691rpm/acc_00004",
+      "sha256": "8538ed12ba586b248670d7a1269fe067b988a10b6d1e868ad0c2447691031047",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_25%_2690rpm/acc_00001",
+      "sha256": "7f02bdd70e19a9832bc7ab92c3e9e1c0772ea5733641752b2a2a57a1891a09e2",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_25%_2690rpm/acc_00002",
+      "sha256": "6f27d3642e5b80d2fb7f39c7329de3495c91298472df132e76a4130e968b1436",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_25%_2690rpm/acc_00003",
+      "sha256": "2be967f9233965dac0e4ba7cb965efcee16b9c4db2f7df7e157a6fcd46a468e0",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_25%_2690rpm/acc_00004",
+      "sha256": "49d36a5f5786cc23e28a2e21a4b1003a7ea47876338524277305bff21ce8b782",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_50%_2685rpm/acc_00001",
+      "sha256": "baf1f5be956cb6abd43f7106fd0583901471613d98fad2229fbdd94df90f776c",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_50%_2685rpm/acc_00002",
+      "sha256": "6094b736e2a6bcaeaf6c58daff8240b0b7879127f9c6a09a064d6bb41e93b60c",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_50%_2685rpm/acc_00003",
+      "sha256": "bad3918c12189df4c5170ffe807869af9009d2795e965dbf3609bd41db61229f",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_50%_2685rpm/acc_00004",
+      "sha256": "254ba68d653b9a891b3958b885bfd9961497f110098833cd1bdfa0eb56a7ba0b",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_75%_2678rpm/acc_00001",
+      "sha256": "5874acc81434a8d318ef0b7133fb4ca5ea0d6ec2e32132460c6e17bc2fe73b82",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_75%_2678rpm/acc_00002",
+      "sha256": "3105c2cd6d39de7f6412fac5c9437d270754414fbd83bea1e31d95e332db0e70",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_75%_2678rpm/acc_00003",
+      "sha256": "977b1c25eec9f2489d1c690280b3dc4d648af92717e82c59509d0ac60da16b8e",
+      "windows": 31
+    },
+    {
+      "record_id": "Bearing_outer_race_fault/45hz_75%_2678rpm/acc_00004",
+      "sha256": "419e257abca8e7d5d539f99e0dcabc145d14683d9364b484daf1c665e6206bfe",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_0%_1491rpm/acc_00001",
+      "sha256": "415dbb62dbf7114017aa7118f0f9792fb3ff9cfbac476e3c079e1dfbc30c9aca",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_0%_1491rpm/acc_00002",
+      "sha256": "8628c2c9fc9e45a15d6a3e9634f3de24711c00e6020196536b647d999331a436",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_0%_1491rpm/acc_00003",
+      "sha256": "5cd264f6d71de0dc07a942fc1522fd81f4c5c4d3783f0930efecbaab2be4cf8e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_0%_1491rpm/acc_00004",
+      "sha256": "693763e8d930ad9fc3f14a280613e602dfd440dca0602b5b58156448b88887d5",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_25%_1489rpm/acc_00001",
+      "sha256": "5ed16bac4939d341aa28b371f1f4649a36196c833a1632fb681f91adf6c5c0ae",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_25%_1489rpm/acc_00002",
+      "sha256": "f0dab46089ef7f612eb59b7b59fc95df35b161b3608a6fc16c4494fb230c047f",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_25%_1489rpm/acc_00003",
+      "sha256": "87dea52a46a3eefdedf1cf34b0672b4376504cf2c7258b3fbfe00f834fadc22f",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_25%_1489rpm/acc_00004",
+      "sha256": "97ea426cf5ff5b98efe4e2975a5a0be5356e5393ed8236bb5787a3942ad10caf",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_50%_1484rpm/acc_00001",
+      "sha256": "d8e8a8c0d982a290dbdae580cbeb2f6b62c1d02baeaa91b0b87e7552163539ff",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_50%_1484rpm/acc_00002",
+      "sha256": "175bfb2d326df1e5d977be5d32b42a2832d30991a11463ef797c2dd0627cf9b1",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_50%_1484rpm/acc_00003",
+      "sha256": "ecb592f3a642bc984204fb521de09f19d76db77a18950c4751347db6a7685317",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_50%_1484rpm/acc_00004",
+      "sha256": "1f08c9082b8b8c74375dd28b2c72082da94db6158c61e8103bbeb39406065535",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_75%_1477rpm/acc_00001",
+      "sha256": "8d956078f64c197f816e8ed3b7b066758a779241b6fce2d1d02372e0d9dbc00a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_75%_1477rpm/acc_00002",
+      "sha256": "d4eff0f1fbb97b2e9921384a2e60dd5f3b78eddbd64b2b4fc342ed1c411feba5",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_75%_1477rpm/acc_00003",
+      "sha256": "0f34a51450f96b6cd1369c98760f7b8c36fe1576c4e332fdcb855786c1f8302d",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/25hz_75%_1477rpm/acc_00004",
+      "sha256": "9b999cab5dab67eb4f53ab134f5c8d45c633a55ed98297b45cb4a2d14d3daeca",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_0%_2091rpm/acc_00001",
+      "sha256": "cf0b9574ade4e92d9e8a5434114276cc4f5432b298b45e4212188ee8dc9fd5a8",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_0%_2091rpm/acc_00002",
+      "sha256": "95eccd4c2c611bd6e51a310fde1e288089d3adf35343a8b66ec87f2e0e11b8fb",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_0%_2091rpm/acc_00003",
+      "sha256": "0de5c57f841fda7e7b3dec1521b1eb718e4e5ef2acd8d3688b09ebc38a21b26b",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_0%_2091rpm/acc_00004",
+      "sha256": "5e0bf1bca4becba4b6cf3368703b3329f7304c9c4370af7df96bd261d05fd832",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_25%_2090rpm/acc_00001",
+      "sha256": "e699781d4bb1873394b713aadc4b7c3435c5c91be23c1b56215c2f81fc1ab211",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_25%_2090rpm/acc_00002",
+      "sha256": "f739d892c5dc1142d4d6e90e7daac116da63cee47ca5577c3d1cc73f75a3e420",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_25%_2090rpm/acc_00003",
+      "sha256": "159a15f7a5458e4222281070c872cb1e12b08db946684bf21dc95877d4ba725f",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_25%_2090rpm/acc_00004",
+      "sha256": "063867bd3a33089d46bd01efc0e455dab4f6fc61130c79073740d4088c3af124",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_50%_2085rpm/acc_00001",
+      "sha256": "a997d37c6e9bdc8094be6dcbdb424bae4d49f3e6cfff27057add24c8803eee2c",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_50%_2085rpm/acc_00002",
+      "sha256": "770484e4c3d5db72035a0bd8b7ff7a1d7063da782965bdfcc70e54ca0ed8e7e4",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_50%_2085rpm/acc_00003",
+      "sha256": "24ac36d8b91b36c8b705df092f5715b57ef3b09051821befd0fe586a6afa81f9",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_50%_2085rpm/acc_00004",
+      "sha256": "2104839e5231cbd0387f0dcbcbb59e9eb17b298bf2ac974cb2fe8ab6068f1f47",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_75%_2078rpm/acc_00001",
+      "sha256": "a097d558a885bf9a414a276e9182be2f578bb07ce8361636f76632c2d0a9716e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_75%_2078rpm/acc_00002",
+      "sha256": "71eb1fa72d07848ad5b78e42aa91779913bcccbfedba7b489b9b940fd44e10db",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_75%_2078rpm/acc_00003",
+      "sha256": "75af85c251a42757d80bf5c97a9c199b231a739a83781665aadbf73beebb04e0",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/35hz_75%_2078rpm/acc_00004",
+      "sha256": "0bd5e0b0e03dcbbafba287d769dc8f1aa5cfb34d5903847031b159e8a8dd0548",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_0%_2691rpm/acc_00001",
+      "sha256": "fa6f33675660c22a91b1ae0b1bec3b77cf20a68225f69d7f2b152d87c7aacfdd",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_0%_2691rpm/acc_00002",
+      "sha256": "7eed7d527f03299e45696a3b1e91691082bdd2c6eb8070c6b6d85e60281e28b9",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_0%_2691rpm/acc_00003",
+      "sha256": "2421f4dd29f60abc25bc07f5460605cd0d1cbf5966e6a1d22aa11936c879e383",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_0%_2691rpm/acc_00004",
+      "sha256": "bc7afa04a60c4bbbd2cb2a1f918c00ed6ee9331a4042edef84eebd775336f6c7",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_25%_2689rpm/acc_00001",
+      "sha256": "64451331027b0f3268fb716e4ad527193e0de9bf11ad0e1862525beec5332e0a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_25%_2689rpm/acc_00002",
+      "sha256": "0e2ae31bc292b678baff2a888f9f3d94b02ec37aa221a50966cdee52b9b3154b",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_25%_2689rpm/acc_00003",
+      "sha256": "4ddb88fef86afeda1a1a6e7eed03d51b1f831481ebaf8ddea717085bb8c19d12",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_25%_2689rpm/acc_00004",
+      "sha256": "4cf845f8fdd059fde55bc2c095743702eebde999971f666f6337f884e9903b11",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_50%_2685rpm/acc_00001",
+      "sha256": "831f084491ced18912c37c61bc49dcbbcdcf7507c6cd002ae0c0ca3cd2bcb62e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_50%_2685rpm/acc_00002",
+      "sha256": "7b66f236e3180b339b89645c90701fad4fdce733feb5da4049d6ab0625ee0c32",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_50%_2685rpm/acc_00003",
+      "sha256": "70abc23c59958940eb4f1f105b2707e468157352e7ae79088a160f8bba5ff3b1",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_50%_2685rpm/acc_00004",
+      "sha256": "58111bbccd1c0b72d85e7d4976e9a2a7886e94b7f82dec77c6137c678f2b6566",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_75%_2678rpm/acc_00001",
+      "sha256": "c875b94a7e79727d212168b43c043d894593ddfaced80daf66b6b950f8dd7fa9",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_75%_2678rpm/acc_00002",
+      "sha256": "c98d33ff3f810e0574ded04a370f05f86881c5e76d62efb3deed90b8dd70aa22",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_75%_2678rpm/acc_00003",
+      "sha256": "31273efa6b54b36f5b0b34e235d888d8bc48fdd4b7d8203326f103475f164663",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_surface_and_bearing_inner_race_faults/45hz_75%_2678rpm/acc_00004",
+      "sha256": "12c812113636b254c1f1e8960d61dbe053d7c8e8228411e50a4d3533f8ecc3e6",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_0%_1491rpm/acc_00001",
+      "sha256": "1a379b07e5b1872a3957dcd86f605adfe6cb8d269660426d5275b6be37363f6d",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_0%_1491rpm/acc_00002",
+      "sha256": "f60212c9e205db37b5b0b250a4dd5b0681e44e33eb86837996c48250556efe5e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_0%_1491rpm/acc_00003",
+      "sha256": "6c6c44441ebd8d3afe2dafed75138a1a4f5a8679da4549b23d4e3c89cb9eff53",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_0%_1491rpm/acc_00004",
+      "sha256": "b07661176d5816f01aebaf1aaa7949740fef7ec54708b013c207843cf6eb5ff1",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_25%_1490rpm/acc_00001",
+      "sha256": "c7a2840db2d88dba08c6e72a4e2a5bece8e317809f0f7f640aac9e59b3f7fb00",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_25%_1490rpm/acc_00002",
+      "sha256": "a8c61ea5b6d076d902e886e27f788f4c03b5f0bead76faa024546979b6cc4167",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_25%_1490rpm/acc_00003",
+      "sha256": "28c63636ca5d09f05099e59db03aaf6aa4d24e80d51fe5c403a963a16b50c671",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_25%_1490rpm/acc_00004",
+      "sha256": "cb10d39e539068a1356bddd0cc41721fa1cf37d6943db9306032889356cc3a0d",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_50%_1485rpm/acc_00001",
+      "sha256": "6d6c0cb10584d4cae8552024863bc29c0c40e067f0183480ed24c41c8abed141",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_50%_1485rpm/acc_00002",
+      "sha256": "132106a9bc2587c1ded26ea8a4dae41c49bfb86f20a9826b487c750642a08caa",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_50%_1485rpm/acc_00003",
+      "sha256": "18d522bbb50f4b08888501d84d445cc5166351ccf69b4c52870b166a77aeda0f",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_50%_1485rpm/acc_00004",
+      "sha256": "e6ed355c9d3ef82237fd836d9e2744b0694a70603cde363d6d080995b7bc0997",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_75%_1476rpm/acc_00001",
+      "sha256": "d5d1549c278c653c1656168f4784da72b7a985ee263ae2568f44a34346fb1dbc",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_75%_1476rpm/acc_00002",
+      "sha256": "df16321ae3df5b08057cc91eb72495c17b16a87923239f7fb22132db6ee003dd",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_75%_1476rpm/acc_00003",
+      "sha256": "d489c0b4eec701ac325274f0f041cb83acdcb8a7c09ab646164f41568a778236",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/25hz_75%_1476rpm/acc_00004",
+      "sha256": "587c5d46485d2d250503a8c5928a17359c05819ac070ed4ddb70cb6443e9511a",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_0%_2091rpm/acc_00001",
+      "sha256": "e2bd8e1ed24a0141cfd076056555c0b3c90b5a75febde974e0f007a3aa41845e",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_0%_2091rpm/acc_00002",
+      "sha256": "e7d3e7f1b2a4e6f2d34da9d2a19b3fe7b341284757088566d0d03c4504639687",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_0%_2091rpm/acc_00003",
+      "sha256": "f1d857e149d4498e0d1fe0d35ee5c7a2c8451b2d274ad4c8190868011fd67488",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_0%_2091rpm/acc_00004",
+      "sha256": "e7345fe12c8be795dba9c6eb34bf42fec62c1d06624210d5dd2d5c91ed97bab6",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_25%_2090rpm/acc_00001",
+      "sha256": "e316fe4bd4399be51a19d7394da81117e9185e9538cea294c9dfa59203d10d1b",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_25%_2090rpm/acc_00002",
+      "sha256": "880ae37cd82a6e1bbe786de9650e9c0dcc4f8de5eec392d6f947f75a14256647",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_25%_2090rpm/acc_00003",
+      "sha256": "5baf9b23c5a56e616e6bf0036150dea8164ffb355dce3675d1ad303a399b5ad3",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_25%_2090rpm/acc_00004",
+      "sha256": "43babc6180534aa482f777a7ddc5348d7ada4184387c418b1294a38275b3deb8",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_50%_2085rpm/acc_00001",
+      "sha256": "18abea316ceba47c9171ceb8293db3e2885200779d915701d83f462a7191a330",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_50%_2085rpm/acc_00002",
+      "sha256": "0ff7fabffb8a32fb838d21f909dbbd848fe39a575fc722776e54912cfe675595",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_50%_2085rpm/acc_00003",
+      "sha256": "7c201919a30ca3f032839f44a9a03adb63950ba41a46a016ba9d07bbadeb8abe",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_50%_2085rpm/acc_00004",
+      "sha256": "5690710d5993d97cf3343b6796407e34bc02a7cbb480159cf6e61b17a90e2066",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_75%_2078rpm/acc_00001",
+      "sha256": "d442f280102f4c393b2fbc37c16d9212c6b80cd2d4f9f6041dbb82d48a156f18",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_75%_2078rpm/acc_00002",
+      "sha256": "141d759e9c19301a0d8efe2c21859e8d13cd70ca93529b80936f318600056d19",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_75%_2078rpm/acc_00003",
+      "sha256": "d63c72a9f47c0c2bae0fcd6017d392ebb787828dac1693d16c1b9d5a9d05edd0",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/35hz_75%_2078rpm/acc_00004",
+      "sha256": "bd5423d848c3443e8b43bf41973318b80996e5fbcacadd159876da11ffaa42d3",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_0%_2691rpm/acc_00001",
+      "sha256": "394d902e7160be00290298abca5e4e7d8ae22ed7a9336f226ced957c974e6380",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_0%_2691rpm/acc_00002",
+      "sha256": "102ac399163173f5ee35fa6e848d27588410484ff1f8258beab1733f1ae29ed1",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_0%_2691rpm/acc_00003",
+      "sha256": "f08f94266c58a221aa94b39933d1c6fd31b29c459e16282adceb4c9c6ae23bd4",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_0%_2691rpm/acc_00004",
+      "sha256": "97ba11b2525035d81bd217edc20ee68a20181701b26f33f87ae74e75d312cd32",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_25%_2690rpm/acc_00001",
+      "sha256": "4a75d5e1b1ef49dac731f2e88cc19ec5d8776d951bdd2a4704c211618beca59b",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_25%_2690rpm/acc_00002",
+      "sha256": "62deba8d629a7d16ad514752d845d868b7478b34bfc820fe70722c9c4a2b7ae1",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_25%_2690rpm/acc_00003",
+      "sha256": "342555147c62f08a0e553c07a3aa6e4a519d87429259a602d93a32e44b1038a5",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_25%_2690rpm/acc_00004",
+      "sha256": "5742dbc0f49182bdf0e091170fc601181b422d292cc72c175cd7bf7947660094",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_50%_2683rpm/acc_00001",
+      "sha256": "db5b64186f7a49303d00896b706fc3665be59e750dbc4ac130890ef54b2d0537",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_50%_2683rpm/acc_00002",
+      "sha256": "1f3da67d94ce997c4dd6e270b023d64a5e35217e008f07ee4eebaa6d10c231d8",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_50%_2683rpm/acc_00003",
+      "sha256": "38fcb72e098c7de8e78edbe9cc415df705f8097853b48a5b1df719f180c8aee1",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_50%_2683rpm/acc_00004",
+      "sha256": "a71f0c9429b65a29c76fa2115853f679bc4440e5b8c2936dc1211aa7d7bfd65b",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_75%_2678rpm/acc_00001",
+      "sha256": "4155d10770e4d88ecc4c0adc63bf1102231980cf0c76066329d3bc9856cdfdba",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_75%_2678rpm/acc_00002",
+      "sha256": "02474c5aee7815c203283b7daa1583e7a951d0a679f70f8f9f8c95634c6b7fce",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_75%_2678rpm/acc_00003",
+      "sha256": "0b1a14d4a3b67c97f90ec7c14ab8a0aaf71bc7f7ff3417d076919d3d3dde178d",
+      "windows": 31
+    },
+    {
+      "record_id": "Gear_half_broken_tooth_and_bearing_outer_race_faults/45hz_75%_2678rpm/acc_00004",
+      "sha256": "80ad2f6012979b5fe2e2ef38a686fd7ddaeab3badb05b0dca7b87430db5ec4c3",
+      "windows": 31
+    }
+  ],
+  "source": "raw CSV vibration column 3; no downsampling; 0.32 seconds/shot"
+}

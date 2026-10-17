@@ -1,0 +1,32 @@
+[
+  {
+    "path": "prepared_window_zscore/samples.csv",
+    "bytes": 2316512,
+    "sha256": "9e1b761a17d0d15170ba0053ddee4d5ef59f57ef1eacaa9c94589ed46a422426",
+    "delivery": "git_metadata"
+  },
+  {
+    "path": "prepared_window_zscore/records.csv",
+    "bytes": 160109,
+    "sha256": "4766e5d804047c0ba8e91863811c14da77f6a8ffe98d2b38bb010db9932b3912",
+    "delivery": "git_metadata"
+  },
+  {
+    "path": "prepared_window_zscore/complete.json",
+    "bytes": 1608,
+    "sha256": "10b73d5145970a9216b90de1295d6d3902caed000b5ffc6d2177af1c645d4896",
+    "delivery": "git_metadata"
+  },
+  {
+    "path": "prepared_dggn_raw_waveforms/complete.json",
+    "bytes": 67397,
+    "sha256": "1a3aaa854d7749cc2e6795a75b687cd9d2cd2929ab70993d7b8ea6e7cd54466d",
+    "delivery": "git_metadata"
+  },
+  {
+    "path": "prepared_dggn_raw_waveforms/waveforms.npy",
+    "bytes": 170655872,
+    "sha256": "634e5794bb16d287a2806fdad2fef99762ecd0797519a2662b8e782e248ca6f7",
+    "delivery": "git_lfs"
+  }
+]
